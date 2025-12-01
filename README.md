@@ -21,17 +21,6 @@ Currently focused on applying AI to the **Islamic Finance** sector in Saudi Arab
 
 ---
 
-### 🔥 Featured Projects
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| [**ShariaGuide**](https://github.com/M-AlAteegi/ShariaGuide) | RAG-based regulatory compliance assistant for Islamic finance | Llama 3.1, ChromaDB, PyWebView |
-| [**Islamic Finance Analytics**](https://github.com/M-AlAteegi/Islamic-Finance-Analytics) | 8-table database simulating $206M+ Sukuk operations | SQL, Power BI, Python |
-| [**King Khalid Airport Analysis**](https://github.com/M-AlAteegi/King-Khalid-Airport-Flights-Analysis) | ML analysis of 153K+ flight records | Python, Scikit-learn, Pandas |
-| [**SignSpeak**](https://github.com/M-AlAteegi/SignSpeak) | Real-time sign language recognition system | TensorFlow, MediaPipe, NLP |
-
----
-
 ### 🛠️ Tech Stack
 
 **Languages:** Python, SQL  
