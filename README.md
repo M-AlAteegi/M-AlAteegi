@@ -42,15 +42,6 @@ Currently focused on applying AI to the **Islamic Finance** sector in Saudi Arab
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=M-AlAteegi&show_icons=true&theme=github_dark&hide_border=true)
-
-</div>
-
----
 
 <div align="center">
 
