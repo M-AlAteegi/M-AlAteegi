@@ -42,8 +42,6 @@ Currently focused on applying AI to the **Islamic Finance** sector in Saudi Arab
 
 ---
 
----
-
 <div align="center">
 
 *Open to Data Science opportunities in Saudi Arabia's financial sector*
