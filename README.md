@@ -23,7 +23,7 @@ Always learning. Always building.
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| [**TadqeeqAI**](https://github.com/M-AlAteegi/TadqeeqAI) | RAG-based AI assistant with semantic search and citations | Llama 3.1, ChromaDB, PyWebView |
+| [**TadqeeqAI**](https://github.com/M-AlAteegi/TadqeeqAI) | RAG-based AI assistant with semantic search and citations | Aya 8B, ChromaDB, PyWebView |
 | [**Islamic Finance Analytics**](https://github.com/M-AlAteegi/Islamic-Finance-Analytics) | Database design and BI dashboards for financial simulation | SQL, Power BI, Python |
 | [**King Khalid Airport Analysis**](https://github.com/M-AlAteegi/King-Khalid-Airport-Flights-Analysis) | ML analysis of 153K+ flight records | Python, Scikit-learn, Pandas |
 | [**SignSpeak**](https://github.com/M-AlAteegi/SignSpeak) | Real-time sign language recognition | TensorFlow, MediaPipe, NLP |
