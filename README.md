@@ -2,7 +2,7 @@
 
 # Mohammed AlAteegi
 
-### AI & Data Science | Building Intelligent Solutions 🚀
+### AI & Data Science | Building Intelligent Solutions 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-alateegi-2853b3248/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m7mdateegi@gmail.com)
@@ -11,7 +11,7 @@
 
 ---
 
-### 🎯 About Me
+### About Me
 
 AI Graduate from University of Jeddah with a passion for turning complex problems into working solutions. I enjoy building end-to-end systems — from data pipelines and ML models to user-facing applications.
 
@@ -19,7 +19,7 @@ Always learning. Always building.
 
 ---
 
-### 🔥 Featured Projects
+### Featured Projects
 
 | Project | Description | Tech |
 |---------|-------------|------|
@@ -30,7 +30,7 @@ Always learning. Always building.
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 **Languages:** Python, SQL  
 **ML/AI:** TensorFlow, PyTorch, Scikit-learn, LLMs, RAG  
